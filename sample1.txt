@@ -1,5 +1,7 @@
-﻿11 hu nao hu nao danh don ne
+11 hu nao hu nao danh don ne
 psg 6-5 bayern 
+11 main conflict line
+mainのコンフリクト用コミット
 ---------------------------------------------------------------------------------------------
 12 Oct	Tokyo Tour	(detail schedule is not fixed)
 			Sumo-beya

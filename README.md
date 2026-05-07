@@ -7,6 +7,5 @@
 - 自分のアカウントにできたコピーを確認する
 - 自分のPCに clone する
 
-## 注意
-このリポジトリ本体は教材用です。
-編集は fork した自分のリポジトリ側で行います。
+embehulaanhxoiday
+quangcocaichangiuadai17.5

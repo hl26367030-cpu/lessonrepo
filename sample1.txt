@@ -33,3 +33,4 @@
 	   12:30 lunchon
 	   13:30 lesson3
 	   15:00 school out
+update repo修正
